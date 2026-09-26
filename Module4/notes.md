@@ -1,0 +1,1 @@
+Learned about GitHub and git. How to add, commit, and push. Learned about repos and version control management.
